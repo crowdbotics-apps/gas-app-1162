@@ -1,0 +1,3 @@
+rootProject.name = 'gas_app_1162'
+
+include ':app'
